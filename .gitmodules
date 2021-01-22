@@ -1,0 +1,6 @@
+[submodule "fbcp-ili9341"]
+	path = fbcp-ili9341
+	url = https://github.com/juj/fbcp-ili9341.git
+[submodule "Retrogame"]
+	path = Retrogame
+	url = https://github.com/EmuPie/Retrogame.git
